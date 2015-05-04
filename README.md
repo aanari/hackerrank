@@ -8,8 +8,10 @@
     └── warmup
         ├── chocolate_feast.pl
         ├── halloween_party.pl
+        ├── maximizing_xor.py
         ├── service_lane.pl
         ├── solve_me_first.pl
+        ├── solve_me_second.pl
         ├── the_love_letter_mystery.pl
         └── utopian_tree.pl
 ```
