@@ -8,6 +8,7 @@
     └── warmup
         ├── chocolate_feast.pl
         ├── halloween_party.pl
+        ├── lonely_integer.py
         ├── maximizing_xor.py
         ├── service_lane.pl
         ├── solve_me_first.pl
