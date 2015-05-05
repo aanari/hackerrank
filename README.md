@@ -8,6 +8,7 @@
     └── warmup
         ├── angry_professor.py
         ├── chocolate_feast.pl
+        ├── cut_the_sticks.py
         ├── find_digits.py
         ├── halloween_party.pl
         ├── lonely_integer.py
